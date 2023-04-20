@@ -43,9 +43,9 @@ During resource allocation, constraint programming can be used to allocate limit
 ## Bonus: Science Fiction Featuring CEA
 
 ### Videos
-- [Vertical Farming](https://youtu.be/w6a9t2TxpOY)
-- [Space Farming](https://www.youtube.com/watch?v=0ENabNTQwNg)
-- [Farming on Mars](https://www.youtube.com/watch?v=OhoQMJN0z-Q)
+- [Vertical Farming: Isaac Arthur](https://youtu.be/w6a9t2TxpOY)
+- [Space Farming: Isaac Arthur](https://www.youtube.com/watch?v=0ENabNTQwNg)
+- [Farming on Mars: Isaac Arthur](https://www.youtube.com/watch?v=OhoQMJN0z-Q)
 
 ### Books
 - "The Martian" by Andy Weir. In Chapter 13 Mark Watney begins his experiment to grow potatoes using Martian soil, his own feces, and water. The process is detailed, from building the greenhouse to preparing the soil, and culminates in the successful growth of potato plants.
