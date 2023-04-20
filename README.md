@@ -7,6 +7,7 @@
 - [Machine Learning and AI](#machine-learning-and-ai)
 - [Datasets](#datasets)
 - [Other Awesome Agriculture Lists](#other-awesome-agriculture-lists)
+- [Science Fiction Featuring CEA](#science-fiction-featuring-cea)
 
 ## Case Studies
 
@@ -40,15 +41,18 @@ During resource allocation, constraint programming can be used to allocate limit
 - [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture)
 - [Awesome Aquaponics](https://github.com/thefarmhub/awesome-farming-tech)
 
-## Bonus: Science Fiction Featuring CEA
+## Science Fiction Featuring CEA
 
 ### Videos
-- [Vertical Farming: Isaac Arthur](https://youtu.be/w6a9t2TxpOY)
-- [Space Farming: Isaac Arthur](https://www.youtube.com/watch?v=0ENabNTQwNg)
-- [Farming on Mars: Isaac Arthur](https://www.youtube.com/watch?v=OhoQMJN0z-Q)
+- ["Vertical Farming" by Isaac Arthur](https://youtu.be/w6a9t2TxpOY)
+- ["Space Farming" by Isaac Arthur](https://www.youtube.com/watch?v=0ENabNTQwNg)
+- ["Farming on Mars" by Isaac Arthur](https://www.youtube.com/watch?v=OhoQMJN0z-Q)
 
 ### Books
-- "The Martian" by Andy Weir. In Chapter 13 Mark Watney begins his experiment to grow potatoes using Martian soil, his own feces, and water. The process is detailed, from building the greenhouse to preparing the soil, and culminates in the successful growth of potato plants.
-- "Red Mars" by Kim Stanley Robinson. Agriculture plays a significant role in the story, as the colonists must learn to grow food in the harsh Martian environment.
-- "The Moon is a Harsh Mistress" by Robert A. Heinlein. A group of rebels living on the Moon must rely on farming to sustain themselves in their struggle for independence from Earth. Discusses economics of farming and sustainability issues of exporting water in the form of crops.
-- "Leviathan Wakes" by James S. A. Corey. Features a habitat on an asteroid with large hydroponic farms that use recycled water and artificial light to grow crops. The process of farming in this environment is described in detail, as well as the challenges of keeping the crops healthy and productive.
+- "The Martian" by Andy Weir: In Chapter 13 Mark Watney begins his experiment to grow potatoes using Martian soil, his own feces, and water. The process is detailed, from building the greenhouse to preparing the soil, and culminates in the successful growth of potato plants.
+- "Red Mars" by Kim Stanley Robinson: Agriculture plays a significant role in the story, as the colonists must learn to grow food in the harsh Martian environment.
+- "Aurora" by Kim Stanley Robinson: This novel features a generation ship that is traveling to a distant star system. The ship has several large greenhouses that are used to grow crops, as well as other controlled environment agriculture systems.
+- "2312" by Kim Stanley Robinson: Indoor agriculture is mentioned several times throughout the book, particularly in the context of terraforming and space habitats.
+- "The Moon is a Harsh Mistress" by Robert A. Heinlein: A group of rebels living on the Moon must rely on farming to sustain themselves in their struggle for independence from Earth. Discusses economics of farming and sustainability issues of exporting water in the form of crops.
+- "Leviathan Wakes" by James S. A. Corey: Features a habitat on an asteroid with large hydroponic farms that use recycled water and artificial light to grow crops.
+- "The Windup Girl" by Paolo Bacigalupi: Indoor agriculture is a major theme and is described in detail throughout the book. In Chapter 4 the protagonist, Anderson Lake, visits a factory farm that uses LED lighting, genetic modification, and vertical stacking to maximize space.
